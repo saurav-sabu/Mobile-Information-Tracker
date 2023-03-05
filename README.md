@@ -1,3 +1,3 @@
 # Mobile-Information-Tracker
 
-Link to WebApp:- https://mobile-info-python.herokuapp.com/
+Link to WebApp:- https://huggingface.co/spaces/saurav-sabu/Mobile-Tracker
